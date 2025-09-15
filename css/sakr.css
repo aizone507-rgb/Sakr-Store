@@ -97,7 +97,7 @@ header .store {
 .sakr ul li a {
     text-decoration: none;
     display: block;
-    padding: 20px;
+    padding: 20px; 
 }
 .sakr ul li:first-child a,
 .sakr ul li:first-child {
